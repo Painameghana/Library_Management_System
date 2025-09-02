@@ -1,4 +1,4 @@
-# Library-Management-System ![](spring.PNG)
+# Library_Management_System ![](spring.PNG)
 ## Introduction 
 A Library Management System designed to see the books available in a college library. It allows students to register as a user and issue/return books from the college library hassle free. The backend is designed as a **Monolithic Architecture** with various nuances as discussed below.
 ## Technologies and Dependencies Used
